@@ -1,6 +1,4 @@
-
 /*
 
   Access-Control-Allow-Origin : *
   
-  l
