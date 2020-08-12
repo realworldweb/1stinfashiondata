@@ -1,4 +1,4 @@
-let dataFaqs = [ {
+[ {
 "question": "Do you have a shop?",
 "answer": "No, we are an online retailer only - we have no shops and we cannot allow public access to our warehouse for health and safety reasons"
 },
@@ -11,25 +11,3 @@ let dataFaqs = [ {
 "answer": "You have 30 Days from receiving your order to return any items, providing they are in their original condition, unworn and unwashed. All items should be returned with the original tags, labels, and suits need to be returned with their original suit bag.IMPORTANT: Damaged, worn, washed or altered items, or anything that Roco Clothing believes has been used will NOT be accepted and will be rightfully returned back to you. This includes any items returned outside of the 30 day returns period."
 }
 ]
-
-
-
-
-let dataContactInfo = [
-    {
-        "id": 3,
-        "phone": "07783196464",
-        "mainEmail": "pr.1stinfashion@gmail.com",
-        "secondaryEmail": "paulrooney60@gmail.com",
-        "facebook": "#",
-        "whatsapp": "#",
-        "created_at": "2020-06-13T13:26:36.239Z",
-        "updated_at": "2020-06-13T13:26:36.239Z"
-    }
-]
-
-module.exports = {
-	dataContactInfo: dataContactInfo,
-	dataFaqs: dataFaqs,
-	
-}
