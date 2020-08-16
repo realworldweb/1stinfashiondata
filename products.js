@@ -1,4 +1,3 @@
-
 [
     {
         "id": 10,
@@ -1705,6 +1704,388 @@
                 "updated_at": "2020-06-08T23:53:50.382Z"
             }
         ]
+    },
+    {
+        "id": 36,
+        "name": "Grey 5 piece Tailcoat Morning Suit ",
+        "desc": "This samrt boys tall suit is perfect for any event or wedding were you want to have a more traditonal style.  The gray 5 piece is sure to please with grey jacket wasitcoat and trouser. \nAll complimented by a white shirt and silver tie. \n",
+        "price": 31.95,
+        "sku": "ck2186",
+        "materials": "cotton/polyester",
+        "sizeguide": [
+            {
+                "size": "0-3",
+                "chest": "n/a",
+                "top length": "n/a",
+                "bottom length": "n/a"
+            }
+        ],
+        "img": {
+            "url": "/uploads/boys_tailsk001.webp",
+            "alt": "boys pageboy tails suit 0-3 to 3-4",
+            "caption": "boys pageboy tails suit 0-3 to 3-4"
+        },
+        "created_at": "2020-08-16T13:14:49.711Z",
+        "updated_at": "2020-08-16T13:29:20.768Z",
+        "sizes": [
+            {
+                "id": 9,
+                "size": "9-12",
+                "created_at": "2020-08-03T15:16:46.996Z",
+                "updated_at": "2020-08-03T15:16:46.996Z"
+            },
+            {
+                "id": 15,
+                "size": "3-4",
+                "created_at": "2020-08-16T13:15:21.407Z",
+                "updated_at": "2020-08-16T13:15:21.407Z"
+            }
+        ],
+        "sub_categories": [
+            {
+                "id": 1,
+                "subCategory": "baby boys formal",
+                "created_at": "2020-06-13T16:32:24.549Z",
+                "updated_at": "2020-06-13T16:32:24.549Z"
+            },
+            {
+                "id": 6,
+                "subCategory": "boys formal",
+                "created_at": "2020-06-13T16:43:02.968Z",
+                "updated_at": "2020-06-13T16:43:02.968Z"
+            }
+        ],
+        "options": [],
+        "categories": [
+            {
+                "id": 1,
+                "category": "baby",
+                "created_at": "2020-06-08T23:53:50.382Z",
+                "updated_at": "2020-06-08T23:53:50.382Z"
+            },
+            {
+                "id": 2,
+                "category": "boys",
+                "created_at": "2020-06-08T23:54:16.787Z",
+                "updated_at": "2020-06-08T23:54:16.787Z"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Grey 5 Piece Suit, Page Boy, formal wear",
+        "desc": "This samrt boys suit is perfect for any event or wedding were you want to have a more traditonal style.  The gray 5 piece is sure to please with grey jacket wasitcoat and trouser. \nAll complimented by a white shirt and silver tie. ",
+        "price": 29.95,
+        "sku": "ck2188",
+        "materials": "cotton/polyester",
+        "sizeguide": [
+            {
+                "size": "12-18",
+                "chest": 23,
+                "top length": 15,
+                "sleeve": 13,
+                "in/leg": 10,
+                "waist": "18-22"
+            }
+        ],
+        "img": {
+            "url": "/uploads/baby_formalk001.webp",
+            "alt": "boys formal suit 0-3 to 18-24",
+            "caption": "boys formal suit 0-3 to 18-24"
+        },
+        "created_at": "2020-08-16T13:45:05.084Z",
+        "updated_at": "2020-08-16T13:46:19.651Z",
+        "sizes": [
+            {
+                "id": 4,
+                "size": "12-18",
+                "created_at": "2020-06-09T15:12:14.299Z",
+                "updated_at": "2020-06-09T15:12:14.299Z"
+            }
+        ],
+        "sub_categories": [
+            {
+                "id": 1,
+                "subCategory": "baby boys formal",
+                "created_at": "2020-06-13T16:32:24.549Z",
+                "updated_at": "2020-06-13T16:32:24.549Z"
+            }
+        ],
+        "options": [],
+        "categories": [
+            {
+                "id": 1,
+                "category": "baby",
+                "created_at": "2020-06-08T23:53:50.382Z",
+                "updated_at": "2020-06-08T23:53:50.382Z"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Navy Blue 5 Piece Suits Page Boy,",
+        "desc": "BOYS NAVY BLUE SUIT 1-14 YEARS\nA CLASSIC ITALIAN DESIGN NAVY BLUE SUIT AGE 1-14 YEARS,THIS SUIT DESIGN STYLE & FINISH WITH FELT COLOR AND QUALITY INSIDE\nBOYS NAVY BLUE SUIT 1- 14 YEARS\nA CLASSIC ITALIAN DESIGN,  NAVY  BLUE 5 PIECE\nLINING WITH WHITE SHIRT & PLAIN TIE , JUST FOR THOSE IMPORTANT OCCASIONS,WEDDINGS,PAGEBOYS,CONFIRMATION,HOLY COMMUNION,ALL OCCASIONS,THERE MAY BE A VARIATION OF TIES FROM PHOTOGRAPHY.",
+        "price": 29.95,
+        "sku": "ck2187",
+        "materials": "cotton/polyester",
+        "sizeguide": [
+            {
+                "size": "2",
+                "chest": 25,
+                "top length": 16.5,
+                "sleeve": 36,
+                "in/leg": 13,
+                "waist": "16-20"
+            }
+        ],
+        "img": {
+            "url": "/uploads/boys_formalk002.webp",
+            "alt": "boys summer romper 0-3 to 18-24",
+            "caption": "boys summer romper 0-3 to 18-24"
+        },
+        "created_at": "2020-08-16T13:57:34.235Z",
+        "updated_at": "2020-08-16T13:57:34.235Z",
+        "sizes": [
+            {
+                "id": 6,
+                "size": "2",
+                "created_at": "2020-06-09T15:12:35.772Z",
+                "updated_at": "2020-06-09T15:12:35.772Z"
+            }
+        ],
+        "sub_categories": [
+            {
+                "id": 6,
+                "subCategory": "boys formal",
+                "created_at": "2020-06-13T16:43:02.968Z",
+                "updated_at": "2020-06-13T16:43:02.968Z"
+            }
+        ],
+        "options": [],
+        "categories": [
+            {
+                "id": 2,
+                "category": "boys",
+                "created_at": "2020-06-08T23:54:16.787Z",
+                "updated_at": "2020-06-08T23:54:16.787Z"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Black & Purple 5 Piece Suit,",
+        "desc": "A dazzling boys suit with a balck jacket and trouser set of by a purple cravat and waistcoat. this suit is perfect for any event wedding or pageboy. ",
+        "price": 25.95,
+        "sku": "ck2189",
+        "materials": "cotton/polyester",
+        "sizeguide": [
+            {
+                "size": "4",
+                "chest": 27,
+                "top length": 17.5,
+                "sleeve": 14,
+                "in/leg": 18,
+                "waist": "19-22"
+            },
+            {
+                "size": "5",
+                "chest": 28,
+                "top length": 18,
+                "sleeve": 15,
+                "in/leg": 19,
+                "waist": "19-23"
+            },
+            {
+                "size": "8",
+                "chest": 31,
+                "top length": 21,
+                "sleeve": 17.5,
+                "in/leg": 25,
+                "waist": "20-25"
+            }
+        ],
+        "img": {
+            "url": "/uploads/boys_formalk003.webp",
+            "alt": "boys summer romper 0-3 to 18-24",
+            "caption": "boys summer romper 0-3 to 18-24"
+        },
+        "created_at": "2020-08-16T14:11:59.318Z",
+        "updated_at": "2020-08-16T14:21:31.427Z",
+        "sizes": [
+            {
+                "id": 16,
+                "size": "4",
+                "created_at": "2020-08-16T14:12:19.594Z",
+                "updated_at": "2020-08-16T14:12:19.594Z"
+            },
+            {
+                "id": 18,
+                "size": "8",
+                "created_at": "2020-08-16T14:12:41.626Z",
+                "updated_at": "2020-08-16T14:12:41.626Z"
+            },
+            {
+                "id": 17,
+                "size": "5",
+                "created_at": "2020-08-16T14:12:32.916Z",
+                "updated_at": "2020-08-16T14:12:32.916Z"
+            }
+        ],
+        "sub_categories": [
+            {
+                "id": 6,
+                "subCategory": "boys formal",
+                "created_at": "2020-06-13T16:43:02.968Z",
+                "updated_at": "2020-06-13T16:43:02.968Z"
+            }
+        ],
+        "options": [],
+        "categories": [
+            {
+                "id": 2,
+                "category": "boys",
+                "created_at": "2020-06-08T23:54:16.787Z",
+                "updated_at": "2020-06-08T23:54:16.787Z"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": " Navy Blue 5 Piece Suit",
+        "desc": "BOYS NAVY BLUE SUITS 1- 14 YEARS\nA CLASSIC ITALIAN DESIGN, NAVY BLUE 5 PIECE SUIT AGE 1-14 YEARS,THIS SUIT DESIGN STYLE & FINISH WITH FELT COLOR AND QUALITY INSIDE LINING WITH WHITE SHIRT & PLANE TIE , JUST FOR THOSE IMPORT OCCASION,WEDDINGS,PAGEBOYS,CONFIRMATION,HOLY COMMUNION,ALL OCCASIONS,THERE MAY BE A VARIATION OF TIES FROM PHOTOGRAPHY",
+        "price": 29.95,
+        "sku": "ck2190",
+        "materials": "cotton/polyester",
+        "sizeguide": [
+            {
+                "size": "1",
+                "chest": 24,
+                "top length": 16,
+                "sleeve": 12.5,
+                "in/leg": 13,
+                "waist": "16-20"
+            },
+            {
+                "size": "5",
+                "chest": 28,
+                "top length": 18,
+                "sleeve": 15,
+                "in/leg": 19,
+                "waist": "19-23"
+            },
+            {
+                "size": "7",
+                "chest": 30,
+                "top length": 20,
+                "sleeve": 16.5,
+                "in/leg": 23,
+                "waist": "20-25"
+            }
+        ],
+        "img": {
+            "url": "/uploads/boys_formalk005.jpg",
+            "alt": "boys navy suit page boy 0-3 to 18-24",
+            "caption": "boys navy suit page boy 0-3 to 18-24"
+        },
+        "created_at": "2020-08-16T14:25:44.204Z",
+        "updated_at": "2020-08-16T14:35:20.461Z",
+        "sizes": [
+            {
+                "id": 19,
+                "size": "1",
+                "created_at": "2020-08-16T14:25:55.533Z",
+                "updated_at": "2020-08-16T14:25:55.533Z"
+            },
+            {
+                "id": 17,
+                "size": "5",
+                "created_at": "2020-08-16T14:12:32.916Z",
+                "updated_at": "2020-08-16T14:12:32.916Z"
+            },
+            {
+                "id": 20,
+                "size": "7",
+                "created_at": "2020-08-16T14:26:03.692Z",
+                "updated_at": "2020-08-16T14:26:03.692Z"
+            }
+        ],
+        "sub_categories": [
+            {
+                "id": 1,
+                "subCategory": "baby boys formal",
+                "created_at": "2020-06-13T16:32:24.549Z",
+                "updated_at": "2020-06-13T16:32:24.549Z"
+            },
+            {
+                "id": 6,
+                "subCategory": "boys formal",
+                "created_at": "2020-06-13T16:43:02.968Z",
+                "updated_at": "2020-06-13T16:43:02.968Z"
+            }
+        ],
+        "options": [],
+        "categories": [
+            {
+                "id": 1,
+                "category": "baby",
+                "created_at": "2020-06-08T23:53:50.382Z",
+                "updated_at": "2020-06-08T23:53:50.382Z"
+            },
+            {
+                "id": 2,
+                "category": "boys",
+                "created_at": "2020-06-08T23:54:16.787Z",
+                "updated_at": "2020-06-08T23:54:16.787Z"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Baby Boys 4pc Tweed Waistcoat suit,",
+        "desc": "a traditional style tweed wasitcoat and trousers with a white shirt and blue tie. perfect gift for any young child or for a weddding or speical event.",
+        "price": 22.95,
+        "sku": "ck2191",
+        "materials": "cotton/polyester",
+        "sizeguide": [
+            {
+                "size": "18-23",
+                "chest": 60,
+                "sleeve": 33,
+                "in/leg": 33,
+                "waist": "46-56"
+            }
+        ],
+        "img": {
+            "url": "/uploads/boys_formalk006.webp",
+            "alt": "boys formal waistcoat  0-3 to 18-24",
+            "caption": "boys  formal waistcoat 0-3 to 18-24"
+        },
+        "created_at": "2020-08-16T14:45:20.297Z",
+        "updated_at": "2020-08-16T14:45:20.297Z",
+        "sizes": [
+            {
+                "id": 5,
+                "size": "18-23",
+                "created_at": "2020-06-09T15:12:24.105Z",
+                "updated_at": "2020-06-09T15:12:24.105Z"
+            }
+        ],
+        "sub_categories": [
+            {
+                "id": 1,
+                "subCategory": "baby boys formal",
+                "created_at": "2020-06-13T16:32:24.549Z",
+                "updated_at": "2020-06-13T16:32:24.549Z"
+            }
+        ],
+        "options": [],
+        "categories": [
+            {
+                "id": 1,
+                "category": "baby",
+                "created_at": "2020-06-08T23:53:50.382Z",
+                "updated_at": "2020-06-08T23:53:50.382Z"
+            }
+        ]
     }
 ]
-
