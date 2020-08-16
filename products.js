@@ -1789,12 +1789,12 @@
             }
         ],
         "img": {
-            "url": "/uploads/baby_formalk001.webp",
+            "url": "/uploads/boys_formalk001.webp",
             "alt": "boys formal suit 0-3 to 18-24",
             "caption": "boys formal suit 0-3 to 18-24"
         },
         "created_at": "2020-08-16T13:45:05.084Z",
-        "updated_at": "2020-08-16T13:46:19.651Z",
+        "updated_at": "2020-08-16T15:27:01.198Z",
         "sizes": [
             {
                 "id": 4,
@@ -1983,12 +1983,12 @@
             }
         ],
         "img": {
-            "url": "/uploads/boys_formalk005.jpg",
+            "url": "/uploads/boys_formalk005.webp",
             "alt": "boys navy suit page boy 0-3 to 18-24",
             "caption": "boys navy suit page boy 0-3 to 18-24"
         },
         "created_at": "2020-08-16T14:25:44.204Z",
-        "updated_at": "2020-08-16T14:35:20.461Z",
+        "updated_at": "2020-08-16T15:25:55.725Z",
         "sizes": [
             {
                 "id": 19,
