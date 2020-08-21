@@ -723,16 +723,8 @@
                 "materials": "cotton",
                 "sizeguide": [
                     {
-                        "size": "0-3",
-                        "chest": 50
-                    },
-                    {
-                        "size": "3-6",
-                        "chest": 52
-                    },
-                    {
-                        "size": "6-9",
-                        "chest": 50
+                        "size": "n/a",
+                        "chest": "n/a"
                     }
                 ],
                 "img": {
@@ -741,7 +733,7 @@
                     "caption": "girls summer dress 0-3 to 18-24"
                 },
                 "created_at": "2020-08-10T16:31:09.700Z",
-                "updated_at": "2020-08-11T14:38:55.152Z"
+                "updated_at": "2020-08-21T18:36:43.338Z"
             },
             {
                 "id": 36,
